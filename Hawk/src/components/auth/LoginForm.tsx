@@ -136,7 +136,7 @@ const LoginForm = () => {
       
       // Delay navigation slightly for better UX
       setTimeout(() => {
-        navigate('/dashboard');
+        navigate('/Dashboard'); //Dashboard
       }, 1000);
       
     } catch (error) {

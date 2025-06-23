@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Shield, Lock } from 'lucide-react';
-import { Card } from '@/components/ui/Card';
+import { Card } from '@/components/ui/card';
 
 interface AuthLayoutProps {
   title: string;
