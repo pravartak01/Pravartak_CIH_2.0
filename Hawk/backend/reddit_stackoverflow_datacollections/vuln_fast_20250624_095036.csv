@@ -1,0 +1,21 @@
+platform,title,author,score,severity,url
+stackoverflow,How can I prevent SQL injection in PHP?,Andrew G. Johnson,2769,high,https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
+stackoverflow,Are PDO prepared statements sufficient to prevent SQL injection?,Mark Biek,744,high,https://stackoverflow.com/questions/134099/are-pdo-prepared-statements-sufficient-to-prevent-sql-injection
+stackoverflow,What is the best way to implement &quot;remember me&quot; for a website?,Eddie Deyo,554,unknown,https://stackoverflow.com/questions/244882/what-is-the-best-way-to-implement-remember-me-for-a-website
+stackoverflow,Why is it common to put CSRF prevention tokens in cookies?,metamatt,446,high,https://stackoverflow.com/questions/20504846/why-is-it-common-to-put-csrf-prevention-tokens-in-cookies
+stackoverflow,How serious is this new ASP.NET security vulnerability and how can I workaround it?,Venemo,192,medium,https://stackoverflow.com/questions/3720720/how-serious-is-this-new-asp-net-security-vulnerability-and-how-can-i-workaround
+stackoverflow,Is JSON Hijacking still an issue in modern browsers?,Rocketman,169,unknown,https://stackoverflow.com/questions/16289894/is-json-hijacking-still-an-issue-in-modern-browsers
+stackoverflow,What is the best Distributed Brute Force countermeasure?,Jens Roland,158,critical,https://stackoverflow.com/questions/479233/what-is-the-best-distributed-brute-force-countermeasure
+stackoverflow,Why is this code vulnerable to buffer overflow attacks?,Jason,149,unknown,https://stackoverflow.com/questions/29910520/why-is-this-code-vulnerable-to-buffer-overflow-attacks
+stackoverflow,What is SQL injection?,subu,109,high,https://stackoverflow.com/questions/601300/what-is-sql-injection
+stackoverflow,Why is the standard session lifetime 24 minutes (1440 seconds)?,Anna V&#246;lkl,108,unknown,https://stackoverflow.com/questions/14703363/why-is-the-standard-session-lifetime-24-minutes-1440-seconds
+stackoverflow,SQL injection that gets around mysql_real_escape_string(),Richard Knop,794,high,https://stackoverflow.com/questions/5741187/sql-injection-that-gets-around-mysql-real-escape-string
+stackoverflow,Exploitable PHP functions,tylerl,277,critical,https://stackoverflow.com/questions/3115559/exploitable-php-functions
+stackoverflow,Can I protect against SQL injection by escaping single-quote and surrounding user input with single-,Patrick,159,high,https://stackoverflow.com/questions/139199/can-i-protect-against-sql-injection-by-escaping-single-quote-and-surrounding-use
+stackoverflow,How does the JPEG of Death vulnerability operate?,Rafa,95,medium,https://stackoverflow.com/questions/28369097/how-does-the-jpeg-of-death-vulnerability-operate
+stackoverflow,Exploitable C# Functions,rook,72,critical,https://stackoverflow.com/questions/3940576/exploitable-c-functions
+stackoverflow,How can a Format-String vulnerability be exploited?,Atul Goyal,69,critical,https://stackoverflow.com/questions/7459630/how-can-a-format-string-vulnerability-be-exploited
+stackoverflow,What security problems could come from exposing phpinfo() to end users?,Yahel,64,medium,https://stackoverflow.com/questions/3196011/what-security-problems-could-come-from-exposing-phpinfo-to-end-users
+stackoverflow,Log4j vulnerability - Is Log4j 1.2.17 vulnerable (was unable to find any JNDI code in source)?,Ravindra HV,63,critical,https://stackoverflow.com/questions/70310980/log4j-vulnerability-is-log4j-1-2-17-vulnerable-was-unable-to-find-any-jndi-co
+stackoverflow,Full Secure Image Upload Script,Simon,62,unknown,https://stackoverflow.com/questions/38509334/full-secure-image-upload-script
+stackoverflow,Node.js Express Framework Security Issues,D.Deriso,57,medium,https://stackoverflow.com/questions/14612143/node-js-express-framework-security-issues
