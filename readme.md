@@ -116,7 +116,7 @@ To provide organizations with the tools and intelligence needed to stay ahead of
 | | Requests | HTTP library for API interactions |
 | *Communication* | SendGrid | Email delivery platform |
 | | Twilio | SMS and voice communication APIs |
-| *DevOps* | Docker | Containerization and deployment |
+| *DevOps* | 
 | | GitHub Actions | CI/CD pipeline automation |
 | | Nginx | Reverse proxy and load balancing |
 
